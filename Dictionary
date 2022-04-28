@@ -1,1 +1,4 @@
-
+Install and import the Tkinter library for creating a gui program
+Import PyDictionary(inbuilt python library to show the meaning of words)
+create the gui window and accept a string variable from user and pass it to a fuction when button is clicked
+within the function call the the meaning of the string variable and print it back on another textbox.
